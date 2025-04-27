@@ -20,9 +20,8 @@ make
 
 | Name | Roll No | Email |
 |------|---------|-------|
-| Badri Vishal Kasuba | 22M2119 | badrivishalk@cse.iitb.ac.in
-|
-| Aditya Pande | 22M2108 | pingpongpande@cse.iitb.ac.in
+| Badri Vishal Kasuba | 22M2119 | badrivishalk@cse.iitb.ac.in |
+| Aditya Pande | 22M2108 | pingpongpande@cse.iitb.ac.in |
 
 ## Achievements
 
